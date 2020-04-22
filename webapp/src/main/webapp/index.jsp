@@ -11,4 +11,4 @@
 
 <h2> This runs in a Docker Container on AWS EC2 Instance</h2>
 
-<a href="http://3.15.216.19:8080/webapp">For Jenkins Server:</a> 
+<a href="http://3.15.216.19:8080/webapp">Docker Container:</a> 
