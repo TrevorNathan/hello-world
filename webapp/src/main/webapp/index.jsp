@@ -12,3 +12,7 @@
 <h2> This runs in a Docker Container on AWS EC2 Instance</h2>
 
 <a href="http://3.15.216.19:8080/webapp">Docker Container:</a> 
+
+<h2> This Docker Container has been created using Ansible Playbook</h2>
+
+<a href="http://18.223.100.246:8080/webapp/">Playbook Docker Container:</a> 
