@@ -1,7 +1,7 @@
 <h1> Hello, Welcome to AWS & GCP Simple DevOps Project !!   </h1>
 <h2> This has been deployed on both AWS & GCP </h2>
 
-<a href="http://52.14.183.163:8080/webapp">For AWS EC2 Instance:</a>
+<a href="http://3.21.242.244:8080/webapp/">For AWS EC2 Instance - Tomcat_Server:</a>
 <br><br>
 <a href="http://34.67.217.66:8080/webapp">For GCP VM Instance:</a>
 
