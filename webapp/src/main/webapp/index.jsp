@@ -16,3 +16,7 @@
 <h2> This Docker Container has been created using Ansible Playbook</h2>
 
 <a href="http://18.223.100.246:8080/webapp/">Playbook Docker Container:</a> 
+
+<h2> This is a Kubernets Cluster running our simple app in a Container</h2>
+
+<a href="http://ec2-18-221-154-164.us-east-2.compute.amazonaws.com:31200/webapp/">App runs Kubernets clusters:</a>
